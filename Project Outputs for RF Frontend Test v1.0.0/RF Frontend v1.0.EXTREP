@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: RF Frontend v1.0.GBR   6/20/2019  7:11:03 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.G1                 Signal Layer 1                          
+.G2                 Signal Layer 2                          
+.GBL                Bottom Layer                            
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Board Outline                           
+.GM4                Notes                                   
+.GM16               Title Block                             
+------------------------------------------------------------------------------------------
